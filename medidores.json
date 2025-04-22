@@ -1,0 +1,33 @@
+{
+    "A1B2C3123": {
+      "fechaCorte": "2025-01",
+      "ultimaActualizacion": "2025-02-02 18:00",
+      "mensajeAlarma": "Alerta por alto consumo",
+      "fechaAlarma": "2025-01-25 09:30",
+      "consumoSemanal": [
+        { "day": "Lun", "value": 12 },
+        { "day": "Mar", "value": 19 },
+        { "day": "Mié", "value": 3 },
+        { "day": "Jue", "value": 5 },
+        { "day": "Vie", "value": 2 },
+        { "day": "Sáb", "value": 3 },
+        { "day": "Dom", "value": 7 }
+      ]
+    },
+    "X9Y8Z7766": {
+      "fechaCorte": "2025-02",
+      "ultimaActualizacion": "2025-03-01 12:00",
+      "mensajeAlarma": "Lectura no disponible",
+      "fechaAlarma": "2025-02-20 11:00",
+      "consumoSemanal": [
+        { "day": "Lun", "value": 8 },
+        { "day": "Mar", "value": 6 },
+        { "day": "Mié", "value": 4 },
+        { "day": "Jue", "value": 10 },
+        { "day": "Vie", "value": 9 },
+        { "day": "Sáb", "value": 2 },
+        { "day": "Dom", "value": 1 }
+      ]
+    }
+  }
+  
